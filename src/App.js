@@ -13,7 +13,6 @@ function App() {
   const [name, setName] = React.useState("");
   const [nameFlag, setNameFlag] = React.useState(false);
   const [checkFlag, setCheckFlag] = React.useState(false);
-  /* JSON.parse(localStorage.getItem("todoList")) ?? "" */
 
   /* add a todo item to the list */
   const addTodo = text => {
@@ -77,6 +76,7 @@ function App() {
     setNameFlag(true)
   };
 
+  /* get data from localstorage and update hooks if available */
   useEffect(() => {
     const name = JSON.parse(localStorage.getItem("FirstName"));
     const todoList = JSON.parse(localStorage.getItem("todoList"));

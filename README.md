@@ -10,8 +10,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployed page
 
-Page published at: [https://erin-m-keller.github.io/keller-todo/](https://erin-m-keller.github.io/keller-todo/)
+[View Published Page](https://erin-m-keller.github.io/keller-todo/)
 
 ## License
 
-Please refer to the LICENSE in the repo.
+[MIT](https://choosealicense.com/licenses/mit/)

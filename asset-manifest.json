@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/keller-todo/static/css/main.e28ac943.css",
+    "main.css": "/keller-todo/static/css/main.04a843c0.css",
     "main.js": "/keller-todo/static/js/main.86ec73c7.js",
     "static/media/logo.svg": "/keller-todo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/delete.svg": "/keller-todo/static/media/delete.10f4f94083b91551f588c57cd31a0a37.svg",
     "index.html": "/keller-todo/index.html",
-    "main.e28ac943.css.map": "/keller-todo/static/css/main.e28ac943.css.map",
+    "main.04a843c0.css.map": "/keller-todo/static/css/main.04a843c0.css.map",
     "main.86ec73c7.js.map": "/keller-todo/static/js/main.86ec73c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.e28ac943.css",
+    "static/css/main.04a843c0.css",
     "static/js/main.86ec73c7.js"
   ]
 }
